@@ -47,7 +47,7 @@ class TextBrooke extends Command
         //@todo make message contain new content
         parent::__construct();
         $this->phone_number = '+14045796767';
-        $this->message = 'Hi Brooke. You look beautiful today <3 Do not miss out on these hotttt new posts by Patrick !!! https://www.tumblr.com/blog/tilfml';
+        $this->message = 'Hi Brooke. You look beautiful today <3 Do not miss out on these hotttt new posts by Patrick !!! https://tilfml.tumblr.com/';
     }
 
     /**
