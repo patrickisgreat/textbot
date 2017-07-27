@@ -3,7 +3,7 @@
 namespace App\Console\Commands;
 
 use Illuminate\Console\Command;
-use Aloha\Twilio\Twilio;
+use Twilio;
 
 class TextBrooke extends Command
 {
