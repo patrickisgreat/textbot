@@ -42,9 +42,12 @@ class TextBrooke extends Command
      */
     public function __construct()
     {
+        //@todo make random compliment generator
+        //@todo make listener for any new content
+        //@todo make message contain new content
         parent::__construct();
         $this->phone_number = '+14045796767';
-        $this->message = 'Hi Brooke <3 Today is your lucky day! I am a robot setup by Patrick Bennett to handle communications about a new Tumblr he created to house shared content. This tumblr will house all of anything that Patrick wants you to check out. Do not miss out on these hotttt posts !!! https://www.tumblr.com/blog/tilfml';
+        $this->message = 'Hi Brooke. You look beautiful today <3 Do not miss out on these hotttt new posts by Patrick !!! https://www.tumblr.com/blog/tilfml';
     }
 
     /**
