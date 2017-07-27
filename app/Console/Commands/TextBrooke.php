@@ -43,7 +43,7 @@ class TextBrooke extends Command
     public function __construct()
     {
         parent::__construct();
-        $this->phone_number = '+14045147647';
+        $this->phone_number = '+14045796767';
         $this->message = 'Hi Brooke <3 Today is your lucky day! I am a robot setup by Patrick Bennett to handle communications about a new Tumblr he created to house shared content. This tumblr will house all of anything that Patrick wants you to check out. Do not miss out on these hotttt posts !!! https://www.tumblr.com/blog/tilfml';
     }
 
